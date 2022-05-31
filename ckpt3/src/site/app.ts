@@ -42,7 +42,7 @@ enum DogObedience {
   
   
 
-  // When observe states updates, you call refreshDisplay
+  // When observe states updates, call refreshDisplay
   doc.on('afterTransaction', refreshDisplay);
   
   
