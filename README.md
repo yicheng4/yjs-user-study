@@ -27,9 +27,11 @@ In the following paragraphs, we describe each step in detail and, in some steps,
   $ git clone https://github.com/yicheng4/yjs-user-study.git
   $ cd yjs-user-study/ckpt1
   $ npm i
-  $ cd yjs-user-study/ckpt2
+  $ cd ..
+  $ cd ckpt2
   $ npm i
-  $ cd yjs-user-study/ckpt3
+  $ cd ..
+  $ cd ckpt3
   $ npm i
   ```
  The files you will work on are` ckpt1/src/site/app.ts`,  `ckpt2/src/site/app.ts`, and
