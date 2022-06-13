@@ -42,7 +42,7 @@ In the following paragraphs, we describe each step in detail and, in some steps,
 ### Implement the collaboration functionality in the template provided.
 You can refer to the [project documentation](https://docs.yjs.dev/). If you have any questions, please feel free to ask the researcher.   
 
-While working, you can test the code you have written so far by following the instructions [below](#launch-the-collaborative-website). Checking the console would help you to debug. 
+While working, you can test the code you have written so far by following the instructions [below for launching the collaborative website](#launch-the-collaborative-website). Checking the console would help you to debug. 
 
 When you finish a checkpoint, please let the researcher know. If you are planning to start writing code, please describe to the researcher the approach that you’d like to take before you get started.  
 
