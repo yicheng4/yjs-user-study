@@ -19,7 +19,7 @@ const wsProvider =
   const display1 = document.getElementById("display1")!;
   const display2 = document.getElementById("display2")!;
   function refreshDisplay() {
-    // This function is called when the Collab state changes, possibly
+    // This function is called when the collaborative variables' state changes, possibly
     // due to a message from another replica.
     display1.innerHTML = "TODO: call a function to return the animalName.";
     display2.innerHTML = "TODO: call a function to return the hight of animal.";

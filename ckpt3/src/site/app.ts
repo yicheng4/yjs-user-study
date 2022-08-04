@@ -30,7 +30,7 @@ enum DogObedience {
   const display2 = document.getElementById("display2")!;
   
   function refreshDisplay() {
-    // This function is called when the Collab state changes, possibly
+    // This function is called when the collaborative variables' state changes, possibly
     // due to a message from another replica.
     // You may also need to call this function in other cases.
     display0.innerHTML = "TODO: return the list index (-1 for nothing in list"
